@@ -13,7 +13,7 @@ const Footer = () => {
         <strong>Source:</strong>{' '}
         <a
           href="https://github.com/CursedFork"
-          style={{ ...styles.link, color: 'white', textDecoration: 'underline' }}
+          style={{ ...styles.link, color: 'black', textDecoration: 'underline' }}
           //style={styles.link}
           target="_blank"
           rel="noopener noreferrer"
@@ -56,8 +56,8 @@ const Footer = () => {
 
 const styles = {
   footer: {
-    backgroundColor: '#38bdf8',
-    color: '#f1f5f9',
+    backgroundColor: '#d0e9ff',
+    color: 'black',
     padding: '20px',
     textAlign: 'center',
     fontSize: '0.9rem',
@@ -67,7 +67,7 @@ const styles = {
     margin: '6px 0',
   },
   link: {
-    color: '#38bdf8',
+    color: 'black',
     textDecoration: 'none',
   },
   iconsContainer: {
@@ -80,6 +80,7 @@ const styles = {
     display: 'inline-block',
     width: '32px',
     height: '32px',
+    color: 'black',
   },
   icon: {
     width: '100%',

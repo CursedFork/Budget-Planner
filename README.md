@@ -21,6 +21,7 @@ Ensure you have the following installed:
 
 - Node.js (v18 or later recommended)  
 - npm or yarn
+- Chart.js (for visual elements)
 
 ### Installation
 
@@ -36,3 +37,7 @@ See the LICENSE file for full details.
 
 ## Contact
 This project was built by CursedFork AKA Andrew K.
+
+## Acknowledgments
+This project’s React component styling was assisted by ChatGPT from OpenAI. 
+ChatGPT helped generate and refine styles to achieve a clean, modern, and user-friendly interface.
