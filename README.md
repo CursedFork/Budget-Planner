@@ -25,10 +25,10 @@ Ensure you have the following installed:
 ### Installation
 
 //bash
-git clone https://github.com/CursedFork/Budget-Planner.git
-cd budgetwise
-npm install
-npm start
+- git clone https://github.com/CursedFork/Budget-Planner.git
+- cd budgetwise
+- npm install
+- npm start
 
 ## License
 This project is licensed under the MIT License.
