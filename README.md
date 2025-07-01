@@ -25,7 +25,7 @@ Ensure you have the following installed:
 ### Installation
 
 //bash
-git clone https://github.com/your-username/budgetwise.git
+git clone https://github.com/CursedFork/Budget-Planner.git
 cd budgetwise
 npm install
 npm start
